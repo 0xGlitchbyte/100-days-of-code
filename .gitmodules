@@ -1,3 +1,6 @@
 [submodule "c_dsa"]
 	path = c_dsa
 	url = https://github.com/0xGlitchbyte/c_dsa
+[submodule "gblib"]
+	path = gblib
+	url = https://github.com/0xGlitchbyte/gblib.git
