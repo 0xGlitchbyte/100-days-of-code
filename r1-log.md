@@ -12,3 +12,4 @@ Finished context cracking. Started defining basic types. Since Im using the C89 
 I'll have to define my own `int64` and `uint64`. Also may define `isize` and `usize` for the heck of it.
 
 ### R1D3
+Did a lot of research into defining different types for C. Ended up defining a 64bit type for C89, in case I need it for other architectures. Also added booleans.
