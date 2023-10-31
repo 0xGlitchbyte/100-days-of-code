@@ -16,3 +16,6 @@ Did a lot of research into defining different types for C. Ended up defining a 6
 
 ## R1D4
 Wrote a stack data structure using a singly linked list. Added push, pop, print, and free functions.
+
+## R1D5
+Researched double linked lists and their uses. Decided to add it to the lib. Defined the DLL in the header file.
