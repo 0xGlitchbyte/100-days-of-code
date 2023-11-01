@@ -19,3 +19,6 @@ Wrote a stack data structure using a singly linked list. Added push, pop, print,
 
 ## R1D5
 Researched double linked lists and their uses. Decided to add it to the lib. Defined the DLL in the header file.
+
+## R1D6
+Implemented double linked list in library. Can insert a node at beginning, end, and print backward/forward, as well as free the memory used. Had compile errors, fixed them. Currently getting issues compiling C89 on arm64 architecture.
