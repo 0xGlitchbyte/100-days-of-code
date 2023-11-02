@@ -22,3 +22,6 @@ Researched double linked lists and their uses. Decided to add it to the lib. Def
 
 ## R1D6
 Implemented double linked list in library. Can insert a node at beginning, end, and print backward/forward, as well as free the memory used. Had compile errors, fixed them. Currently getting issues compiling C89 on arm64 architecture.
+
+## R1D7
+Wrote a single linked list queue and added it to the library. Queue can add elements to front, rear, print queue, and free queue.
