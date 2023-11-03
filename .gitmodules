@@ -4,3 +4,6 @@
 [submodule "gblib"]
 	path = gblib
 	url = https://github.com/0xGlitchbyte/gblib.git
+[submodule "dot-game"]
+	path = dot-game
+	url = https://github.com/0xGlitchbyte/dot-game.git

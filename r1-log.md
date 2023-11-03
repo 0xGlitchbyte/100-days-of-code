@@ -25,3 +25,6 @@ Implemented double linked list in library. Can insert a node at beginning, end, 
 
 ## R1D7
 Wrote a single linked list queue and added it to the library. Queue can add elements to front, rear, print queue, and free queue.
+
+## R1D8
+Took a break from writing the gblib, looked into raylib as a possible candidate for game programming. Setup a small repo and geot a window to open. Still having issues compiling on M1 mac; need to sort those out.
