@@ -28,3 +28,6 @@ Wrote a single linked list queue and added it to the library. Queue can add elem
 
 ## R1D8
 Took a break from writing the gblib, looked into raylib as a possible candidate for game programming. Setup a small repo and geot a window to open. Still having issues compiling on M1 mac; need to sort those out.
+
+## R1D9
+Started up an NES emulator repo specifically for NES game development. Going to take a break from C for a bit to focus on getting my website migrated to Astro.

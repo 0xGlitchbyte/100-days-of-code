@@ -7,3 +7,6 @@
 [submodule "dot-game"]
 	path = dot-game
 	url = https://github.com/0xGlitchbyte/dot-game.git
+[submodule "DrNES"]
+	path = DrNES
+	url = https://github.com/0xGlitchbyte/DrNES.git
