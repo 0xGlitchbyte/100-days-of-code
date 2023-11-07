@@ -31,3 +31,6 @@ Took a break from writing the gblib, looked into raylib as a possible candidate 
 
 ## R1D9
 Started up an NES emulator repo specifically for NES game development. Going to take a break from C for a bit to focus on getting my website migrated to Astro.
+
+## R1D10
+Chill day, mostly read docs on Astro and began migrating content from Hugo. No code written today, but learn a lot about Astro and some frontend dev in general to get familiar with the framework.
