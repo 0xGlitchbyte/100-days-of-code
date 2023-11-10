@@ -34,3 +34,6 @@ Started up an NES emulator repo specifically for NES game development. Going to 
 
 ## R1D10
 Chill day, mostly read docs on Astro and began migrating content from Hugo. No code written today, but learn a lot about Astro and some frontend dev in general to get familiar with the framework.
+
+## R1D11
+Migrated site to Astro. Picked a theme and setup the defaults. Tried getting a pipeline for gitlab pages going, but no dice. It bulds and tests without issue, but deploy doesnt work. I suspect it has something to do with the conflict between how Astro and Gitlab use the "public" dir. Will investigate tomorrow.

@@ -10,3 +10,6 @@
 [submodule "DrNES"]
 	path = DrNES
 	url = https://github.com/0xGlitchbyte/DrNES.git
+[submodule "glitchbyteio"]
+	path = glitchbyteio
+	url = git@gitlab.com:mrglitch/glitchbyteio-astro.git
