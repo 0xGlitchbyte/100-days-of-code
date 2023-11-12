@@ -40,3 +40,6 @@ Migrated site to Astro. Picked a theme and setup the defaults. Tried getting a p
 
 ### R1D12
 Frontend dev is definitely blackmagic. To think you can create SVGs from HTML styling. Took me a minute, but I figured out where the default logo was being originated from, ripped that out, and replaced it with my own. Somehow it looks good. I didnt get to investigate the ci/cd issue further. Spent most of today understanding the codebase and attempting to make my own minor changes before doing bigger ones.
+
+### R1D13
+Attempted to move repo to Github. Github Actions would not work, regardless of what I tried. Abandoned migration to Github. Continued investigating gitlab-ci.yaml issue. Pipeline builds, but cant find artifacts directory.
