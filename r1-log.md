@@ -46,3 +46,6 @@ Attempted to move repo to Github. Github Actions would not work, regardless of w
 
 ### R1D14
 After of few days of troubleshooting, I finally got the pipeline to work! At first, it was a simple rookie mistake. I forgot to include `pnpm build`. Once the site was building, it was a matter of figuring out how to get the Pagefind was indexing the site. It was looking in the wrong directory for the build files, so I had to fix that. The tricky part was doing configuring it when both Astro and Gitlab use `public` as the build directory, so I moved Astros default of `public` to static, fixed it in the `astro.config.ts`, and made sure the `gitlab-ci.yaml` reflected these changes.
+
+### R1D15
+Figured out moving the TOC to the left. Ended up being `-order-1` in the TOC.astro file. Also started creating the footnotes collector to show on the side, similar to TufteCSS. Not currently working, but will figure it out.
