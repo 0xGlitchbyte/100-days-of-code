@@ -49,3 +49,6 @@ After of few days of troubleshooting, I finally got the pipeline to work! At fir
 
 ### R1D15
 Figured out moving the TOC to the left. Ended up being `-order-1` in the TOC.astro file. Also started creating the footnotes collector to show on the side, similar to TufteCSS. Not currently working, but will figure it out.
+
+### R1D16
+Took a break from working on the site. Checked out a newer Rust project called Dioxus. It seems you can create apps for any platform with one codebase. Got a desktop app up and running without a hitch. Might use this for a future project.
