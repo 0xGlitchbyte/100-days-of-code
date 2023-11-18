@@ -54,4 +54,8 @@ Figured out moving the TOC to the left. Ended up being `-order-1` in the TOC.ast
 Took a break from working on the site. Checked out a newer Rust project called Dioxus. It seems you can create apps for any platform with one codebase. Got a desktop app up and running without a hitch. Might use this for a future project.
 
 ### R1D17
-Glad I took that break. Wrote the function to collect footnotes and render them as sidenotes to the main content on the right. I was able to get the TOC on the left, content in the middle, and sidenotes to the right. The only thing left is to make sure sidenotes render inline with the original footnote. 
+Glad I took that break. Wrote the function to collect footnotes and render them as sidenotes to the main content on the right. I was able to get the TOC on the left, content in the middle, and sidenotes to the right. The only thing left is to make sure sidenotes render inline with the original footnote.
+
+### R1D18
+Got the pipeline to register the latest changes. It was looking in the wrong directory to build the site. Been working on rendering footnotes as TufteCSS style sidenotes. Its been a bit tricky because of flexbox. 
+
